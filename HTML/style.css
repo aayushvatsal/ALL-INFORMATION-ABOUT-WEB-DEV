@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    background-image:linear-gradient(to bottom, rgba(255,0,0,0.4), rgba(0,255,0,0.4) );
+  
+}
+
+.next1 {
+    font-size: large;
+    font-family: 'Lato';
+    font-weight: 700;
+    color: red;
+    border: 2px solid blue;
+    text-decoration: none;
+    text-align: center;
+}
