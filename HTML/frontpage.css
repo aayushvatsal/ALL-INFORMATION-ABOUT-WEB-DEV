@@ -1,0 +1,71 @@
+body {
+    background-image:url("background\ image.avif");
+    width: 100%;
+    overflow-x: hidden;
+
+}
+
+
+.navbar{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 40px;
+    
+  
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbar{
+
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+
+}
+
+.heading {
+    text-align: center;
+    text-decoration: dashed;
+    color: black;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'lato';
+}
+
+.htmllogo{
+     height: 250px;
+     width: 350px;
+     margin: 20px;
+}
+
+.csslogo{
+    height: 250px;
+    width: 350px;
+    margin: 20px;
+}
+
+.githublogo{
+    height: 250px;
+    width: 350px;
+    margin: 20px;
+}
+
+.javascriptlogo{
+    height: 250px;
+    width: 350px;
+    margin: 20px;
+}
+.reactlogo{
+    height: 250px;
+    width: 350px;
+    margin: 20px;
+}
+.nodejslogo{
+    height: 250px;
+    width: 350px;
+    margin: 20px;
+}

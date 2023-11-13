@@ -1,0 +1,27 @@
+body{
+    color: white;
+    background-color: black;
+    /* background-image:linear-gradient(to bottom, rgba(0,155,0,0.4), rgba(0,0,0230,0.4) ); */
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: green;
+}
+
+h3 {
+    color: blue;
+}
+
+.next2 {
+    font-size: large;
+    font-family: 'Lato';
+    font-weight: 700;
+    color: green;
+    border: 2px solid blue;
+    text-decoration: none;
+    text-align: center;
+}
