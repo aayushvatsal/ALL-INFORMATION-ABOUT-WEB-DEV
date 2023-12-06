@@ -18,3 +18,9 @@ body{
     text-decoration: none;
     text-align: center;
 }
+
+.btn-last{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 550px;
+}
