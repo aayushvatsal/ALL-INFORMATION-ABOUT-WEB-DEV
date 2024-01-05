@@ -37,35 +37,94 @@ a{
 }
 
 .htmllogo{
-     height: 200px;
-     width: 250px;
-     margin: 20px;
+    height: 130px;
+    width: 250px;
+     /* margin: 20px; */
 }
 
 .csslogo{
-    height: 200px;
-     width: 250px;
-     margin: 20px;
+    height: 150px;
+    width: 170px;
+     /* margin: 20px; */
 }
 
 .githublogo{
-    height: 200px;
+    height: 140px;
     width: 250px;
-    margin: 20px;
+    /* margin: 20px; */
 }
 
 .javascriptlogo{
-    height: 200px;
-     width: 250px;
-     margin: 20px;
+    height: 250px;
+    width: 250px;
+     /* margin: 20px; */
 }
 .reactlogo{
-    height: 200px;
+    height: 230px;
      width: 250px;
-     margin: 20px;
+     /* margin: 20px; */
 }
 .nodejslogo{
+    height: 160px;
+    width: 280px;
+    margin-top: 25px;
+} 
+
+.expresslogo{
+    height: 145px;
+    width: 305px;
+    margin-top: 35px;
+} 
+
+.mongodblogo{
+    height: 200px;
+    width: 210px;
+    margin-top: 30px;
+} 
+
+.sqllogo{
+    height: 130px;
+    width: 260px;
+    margin-top: 40px;
+} 
+
+.javalogo{
+    height: 150px;
+    width: 250px;
+    margin-top: 20px;
+} 
+
+.dsalogo{
     height: 200px;
      width: 250px;
      margin: 20px;
-}
+} 
+
+.pythonlogo{
+    height: 250px;
+    width: 260px;
+} 
+
+
+.menu-item {
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    background-color: transparent;
+    border-radius: 0.9375rem;
+  }
+  
+  .menu-item img {
+    /* height: 200px;
+     width: 250px; */
+    border-radius: 0.9375rem;
+    object-fit: cover;
+  }
+  
+  .web-dev-images {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  
