@@ -8,9 +8,9 @@ body {
 
 .navbar{
     display: flex;
-    gap: 100px;
+    gap: 40px;
     justify-content: center;
-    margin:40px;
+    margin: 40px;
     
   
 }
@@ -108,8 +108,11 @@ a{
 
 .menu-item {
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     border: none;
+    margin-left: 40px;
     background-color: transparent;
     border-radius: 0.9375rem;
   }
