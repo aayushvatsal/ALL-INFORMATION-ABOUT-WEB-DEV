@@ -67,3 +67,19 @@ h3 {
     justify-content: space-evenly;
     gap: 550px;
 }
+
+.next2 {
+    font-size: large;
+    font-family: 'Lato';
+    font-weight: 700;
+    color: green;
+    border: 2px solid blue;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-last{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 550px;
+}
