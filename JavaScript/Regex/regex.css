@@ -16,7 +16,6 @@ h3 {
     color: plum;
 }
 
-
 .example{
     border: 2px solid rgba(176, 119, 40, 0.647);
     border-radius: 10px;
@@ -26,27 +25,6 @@ h3 {
     
 }
 
-
-.function-call{
-    width: 260px;
-    height: 240px;
-    margin-top: 30px;
-    background-color: rgb(169, 150, 126);
-}
-
-.function-parameter{
-    width: 260px;
-    height: 240px;
-    margin-top: 30px;
-    background-color: rgb(169, 150, 126);
-}
-
-.function-return{
-    width: 260px;
-    height: 240px;
-    margin-top: 30px;
-    background-color: rgb(169, 150, 126);
-}
 
 .next2 {
     background-color: #1309c8;
@@ -96,3 +74,31 @@ h3 {
 .btn-last a {
     text-decoration: none;
 }
+
+.bracket{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.quantifiers h3{
+    color: #989805;
+}
+
+.quantifiers ul li {
+   color: cornsilk;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th{
+    color: hotpink;
+  }
+ 
